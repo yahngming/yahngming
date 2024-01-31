@@ -1,1 +1,1 @@
-<code>know</code> is <code>know</code>, <code>no know</code> is <code>no know</code>, is <code>know</code>
+`know` is `know`, `no know` is `no know`, is `know`
